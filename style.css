@@ -73,7 +73,7 @@ body{
     display: inline-flex;
     align-items: center;
     padding: 7px 10px;
-    border-radius: 50px;
+    border-radius: 51px;
     cursor: pointer;
     transition: background 0.2s ease;
 }
